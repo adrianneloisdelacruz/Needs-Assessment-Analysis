@@ -1,0 +1,48 @@
+tab 1
+familyname
+firstname
+address
+city
+zipcode
+contactno
+email
+
+tab 2
+namehouseholdhead
+relationshiphouseholdhead
+gender
+birthdate
+ageinlastbirthday
+stillstudying
+religion
+education
+maritalstatus
+primarysourceincome
+primarysourceincome1
+regularincome
+workskills
+workskills1
+monthlyincome
+philhealth
+election
+taxpayer
+mobileno
+
+tab 3
+communityassemblies
+listprograms
+whodoyoutofirst
+wheredoyougettreatment
+wheredoyougettreatment1
+
+tab 4
+programname  program_name
+noofbenefits  no_benefits
+intendbeneficiary intend_beneficiary
+
+cbf - title,category,description
+
+
+
+
+
